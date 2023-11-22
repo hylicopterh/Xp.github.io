@@ -1,7 +1,7 @@
 document.write("<table width=\"650\" border=\"0\" height=\"184\">");
 document.write("<tbody>");
 document.write("<tr>");
-document.write("<td> <img src=\"Images/Donghui _zhao.jpg\" alt=\"Donghui Zhao\"");
+document.write("<td> <img src=\"Images/1.jpg\" alt=\"Xp\"");
 document.write("width=\"162.6\" height=\"200\"> <\/td>");
 document.write("<td>");
 document.write("<h1>徐朋</h1>");
